@@ -17,5 +17,8 @@ public class Ball {
     public void move(){
         System.out.println("moving");
     }
+    public void spin() {
+    	
+    }
 
 }
