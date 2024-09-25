@@ -12,7 +12,7 @@ public class Goalkeeper extends Player{
     boolean globes;
     
     
-    public void catchBall(){
+    public void catchBall(Ball ball){
             System.out.println("catching");
         }
 }
