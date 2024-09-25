@@ -8,7 +8,7 @@ public class Defender extends Player{
     Boolean mark;
 
 
-    public void stealBall(){
+    public void stealBall(Ball ball){
 
         System.out.println("stealsBallToOffender");
     }
